@@ -19,7 +19,7 @@ class Main extends PluginBase implements Listener {
 	
 	public function onEnable() {
 		
-		$this->getServer()->getLogger()->notice("MoneyPouch has been enabled!");
+		$this->getServer()->getLogger()->notice("MoneyPouch has been enabled");
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 		
 	}
