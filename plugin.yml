@@ -1,6 +1,6 @@
 name: MoneyPouch
 main: MoneyPouch\Main
-version: 2.9.3
+version: 2.9.4
 api: [3.0.0-ALPHA12]
 author: HummelSvm
 description: MoneyPouch
