@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HummelSvem/MoneyPouch-1
+branches:
+- master
+projects:
+  MoneyPouch-1:
+    path: ""
+...
